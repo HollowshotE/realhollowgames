@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Full Screen Embed</title>
+    <style>
+        /* Remove margins and stop page scrolling */
+        html, body {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+        }
+
+        /* Make the embedded iframe scale to full screen */
+        .full-screen-embed {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Replace the src with your embedded link -->
+    <iframe class="full-screen-embed" src="https://scratch.mit.edu/projects/1381367086/embed" allowfullscreen></iframe>
+
+</body>
+</html>
