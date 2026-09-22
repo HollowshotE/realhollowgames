@@ -2,4 +2,4 @@
 ### Added
 - DogeMiner.
 - GunSpin
-- Case Clicker 2
+- Case Clicker 1
