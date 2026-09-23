@@ -6,3 +6,4 @@
 
 ### Fixed
 - bug that didn't let you exit settings without a error
+- Friday Night Funkin being blocked
